@@ -1,4 +1,5 @@
 # Goutil 🔧
+![Coverage](https://img.shields.io/badge/Coverage-76.0%25-brightgreen)
 
 
 [![Build Status](https://travis-ci.org/mtcoafun/goutil.svg?branch=master)](https://travis-ci.org/mtcoafun/goutil)
