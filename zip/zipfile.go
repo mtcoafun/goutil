@@ -1,3 +1,4 @@
+// package zip provides zip compression/decompression functions.
 package zip
 
 import (
